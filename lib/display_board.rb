@@ -6,4 +6,4 @@ def display_board
   puts row4 = "-----------"
   puts row5 = "   |   |   "
 end
-display_board
+
